@@ -1,7 +1,7 @@
 # Academic Website Template
 
 Turn your CV, publications, projects, and research updates into a polished academic website—without learning a framework or maintaining a build system.
-  
+
 ![Jane Doe sample academic website homepage](assets/screenshots/home.jpg)
 
 This responsive, data-driven portfolio is ready for GitHub Pages. Most customisation happens in a handful of readable JSON files: add your information, replace the sample images, and publish.
