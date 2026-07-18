@@ -5,28 +5,20 @@
       {
         "title": "Research Assistant",
         "organization": "Research Centre for Humanities, University of Nova Gorica",
-        "dates": "2023 - Present",
+        "dates": "2023 – ongoing",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Nova Gorica logo",
         "flag": "SI",
-        "flag_alt": "Slovenia flag",
-        "bullets": [
-          "Conducting research in literary studies and gender/queer theory within Slovene and Yugoslav literature.",
-          "Collaborating on research projects focusing on masculinity, sexuality, and contemporary Slovene writing."
-        ]
+        "flag_alt": "Slovenia flag"
       },
       {
         "title": "Teaching and Research Assistant",
-        "organization": "University of Nova Gorica",
+        "organization": "School of Humanities and Research Centre for Humanities, University of Nova Gorica",
         "dates": "2023",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Nova Gorica logo",
         "flag": "SI",
-        "flag_alt": "Slovenia flag",
-        "bullets": [
-          "Assisted with undergraduate and graduate courses in humanities.",
-          "Supported research initiatives within the Faculty of Humanities."
-        ]
+        "flag_alt": "Slovenia flag"
       }
     ]
   },
@@ -34,142 +26,55 @@
     "title": "Education",
     "entries": [
       {
-        "title": "Doctor of Philosophy (PhD), Humanities - Literary Studies",
-        "organization": "University of Nova Gorica",
-        "dates": "2023 - Present",
+        "title": "Ph.D. Humanities – Literary Studies",
+        "organization": "University of Nova Gorica, Graduate School",
+        "dates": "2022 – ongoing",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Nova Gorica logo",
         "flag": "SI",
         "flag_alt": "Slovenia flag",
         "bullets": [
-          "Research focus: Sexuality and configurations of masculinity in twentieth-century Slovene male-authored literature.",
-          "Supervisors: Prof. Dr. Aleš Vaupotič and Prof. Dr. Katja Mihurko Popoviči"
+          "Dissertation: Sexuality and the Configurations of Masculinity in Twentieth-Century Slovene Male-Authored Writing",
+          "Supervisor: Prof. Katja Mihurko"
         ]
       },
       {
-        "title": "Master of Arts, Slovene Studies - Literary Science",
-        "organization": "University of Nova Gorica",
-        "dates": "2020 - 2023",
+        "title": "M.A. Slovene Studies – Literary Science",
+        "organization": "University of Nova Gorica, School of Humanities",
+        "dates": "2020 – 2023",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Nova Gorica logo",
         "flag": "SI",
         "flag_alt": "Slovenia flag",
         "bullets": [
-          "Thesis: Queer Friendship and Intimate Partnerships in Contemporary Slovene Male-Authored Short Story (2015–2022)",
-          "Graduated with distinction"
+          "Thesis: Representations of Men and Masculinity in Selected Novels by Ivan Cankar",
+          "Supervisor: Prof. Katja Mihurko"
         ]
       },
       {
-        "title": "Master of Arts, Cultures in Dialogue",
-        "organization": "University of Belgrade",
-        "dates": "2020 - 2021",
+        "title": "M.A. Cultures in Dialogue",
+        "organization": "University of Belgrade, Faculty of Philology",
+        "dates": "2020 – 2021",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Belgrade logo",
         "flag": "RS",
         "flag_alt": "Serbia flag",
         "bullets": [
-          "Erasmus+ Mundus Joint Masters programme focusing on comparative literature and cultural studies."
+          "Thesis: The Native's Return by Louis Adamic: Multiculturality in the Yugoslav Context",
+          "Supervisor: Prof. Maja Đukanović"
         ]
       },
       {
-        "title": "Bachelor of Arts, Serbian Literature and Language with Comparative Literature",
-        "organization": "University of Belgrade",
-        "dates": "2015 - 2020",
+        "title": "B.A. Serbian Literature and Language with Comparative Literature",
+        "organization": "University of Belgrade, Faculty of Philology",
+        "dates": "2015 – 2020",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Belgrade logo",
         "flag": "RS",
-        "flag_alt": "Serbia flag"
-      }
-    ]
-  },
-  {
-    "title": "Research & Study Visits",
-    "entries": [
-      {
-        "title": "Research Visit",
-        "organization": "Universitat Jaume I, Castelló de la Plana, Spain",
-        "dates": "June - July 2026",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Universitat Jaume I logo",
-        "flag": "ES",
-        "flag_alt": "Spain flag",
+        "flag_alt": "Serbia flag",
         "bullets": [
-          "Exploring gender and queer perspectives in Iberian literature and culture."
-        ]
-      },
-      {
-        "title": "Research Visit",
-        "organization": "Universitat de Lleida, Spain",
-        "dates": "June 2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Universitat de Lleida logo",
-        "flag": "ES",
-        "flag_alt": "Spain flag",
-        "bullets": [
-          "Collaboration on comparative literature and gender studies research."
-        ]
-      },
-      {
-        "title": "Research Visit",
-        "organization": "University of Ljubljana, Slovenia",
-        "dates": "2024 - 2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "University of Ljubljana logo",
-        "flag": "SI",
-        "flag_alt": "Slovenia flag",
-        "bullets": [
-          "Engaged with Slovene literary and cultural studies community."
-        ]
-      },
-      {
-        "title": "Study Visit",
-        "organization": "Research Centre for Humanities, University of Nova Gorica",
-        "dates": "2023 - 2024",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "University of Nova Gorica logo",
-        "flag": "SI",
-        "flag_alt": "Slovenia flag"
-      },
-      {
-        "title": "Research Visit",
-        "organization": "Faculty of Philology, University of Belgrade",
-        "dates": "2022 - 2023",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "University of Belgrade logo",
-        "flag": "RS",
-        "flag_alt": "Serbia flag"
-      },
-      {
-        "title": "Research Visit",
-        "organization": "Humboldt-Universität zu Berlin, Germany",
-        "dates": "2019",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Humboldt-Universität zu Berlin logo",
-        "flag": "DE",
-        "flag_alt": "Germany flag",
-        "bullets": [
-          "Study of German literature and comparative approaches to literary analysis."
-        ]
-      },
-      {
-        "title": "Research Exchange",
-        "organization": "Charles University Prague, Czech Republic",
-        "dates": "2018",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Charles University logo",
-        "flag": "CZ",
-        "flag_alt": "Czech Republic flag"
-      },
-      {
-        "title": "Erasmus+ Study Exchange",
-        "organization": "ELTE – Eötvös Loránd University, Budapest, Hungary",
-        "dates": "2017",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "ELTE logo",
-        "flag": "HU",
-        "flag_alt": "Hungary flag",
-        "bullets": [
-          "Study of Hungarian literature and Slavic studies."
+          "Diploma thesis: The Joy of the Dual Regained: The Intercultural Position of Ana Ristović in the Dialogue of Serbian and Slovenian Culture and Literature",
+          "Supervisor: Prof. Predrag Petrović"
         ]
       }
     ]
@@ -178,82 +83,346 @@
     "title": "Teaching Experience",
     "entries": [
       {
-        "title": "Teaching Assistant - Contemporary Slovene Literature",
-        "organization": "University of Nova Gorica",
-        "dates": "2024 - 2025",
+        "title": "Teaching Assistant",
+        "organization": "School of Humanities, University of Nova Gorica",
+        "dates": "2023 – 2025",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Nova Gorica logo",
         "flag": "SI",
         "flag_alt": "Slovenia flag",
         "bullets": [
-          "Assisted in teaching undergraduate course on contemporary Slovene literature.",
-          "Led seminars and provided feedback on student assignments."
-        ]
-      },
-      {
-        "title": "Invited Lecturer - Gender and Literature",
-        "organization": "University of Nova Gorica",
-        "dates": "2023 - 2024",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "University of Nova Gorica logo",
-        "flag": "SI",
-        "flag_alt": "Slovenia flag",
-        "bullets": [
-          "Guest lectures on gender studies, queer theory, and their applications to literary analysis."
+          "Methods of Literary Analysis (M.A.)",
+          "Academic Writing (M.A.)",
+          "Representations of Gender in Slovenian Literature (M.A.)"
         ]
       }
     ]
   },
   {
-    "title": "Conference Presentations",
+    "title": "Invited Lectures",
     "entries": [
       {
-        "title": "Presentation: Masculinity and Desire in Contemporary Slovene Literature",
-        "organization": "Comparative Literature International Conference",
-        "dates": "2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Conference logo",
-        "flag": "SI",
-        "flag_alt": "Slovenia flag"
+        "title": "Sexuality and the Configurations of Masculinity in Twentieth-Century Slovene Male-Authored Writing",
+        "organization": "University of Turin, Department of Cultures, Politics and Society",
+        "dates": "April 2025",
+        "flag": "IT",
+        "flag_alt": "Italy flag"
       },
       {
-        "title": "Presentation: Queer Intimacies in Slovene Short Stories",
-        "organization": "Gender Studies Symposium",
-        "dates": "2024",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Conference logo",
+        "title": "Sexuality and Literary Configurations of Masculinity in Slovene 20th-Century Writing",
+        "organization": "Adam Mickiewicz University, Institute for Slavic Studies",
+        "dates": "March 2025",
+        "flag": "PL",
+        "flag_alt": "Poland flag"
+      },
+      {
+        "title": "Socrealizam kao prvi 'pravac' jugoslovenske književnosti",
+        "organization": "Adam Mickiewicz University, Institute for Slavic Studies",
+        "dates": "March 2025",
+        "flag": "PL",
+        "flag_alt": "Poland flag"
+      },
+      {
+        "title": "Epistolarna intimnost v elektronski zbirki PISMA",
+        "organization": "University of Belgrade, Faculty of Philology",
+        "dates": "November 2024",
         "flag": "RS",
         "flag_alt": "Serbia flag"
       },
       {
-        "title": "Presentation: Comparative Perspectives on Sexuality in Yugoslav Literature",
-        "organization": "Balkan Literary Studies Conference",
-        "dates": "2023",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Conference logo",
-        "flag": "HR",
-        "flag_alt": "Croatia flag"
+        "title": "Reading masculinity in the South East European Literatures",
+        "organization": "Charles University, Faculty of Arts",
+        "dates": "March 2024",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag"
       }
     ]
   },
   {
-    "title": "Memberships & Affiliations",
+    "title": "Research/Study Visits",
     "entries": [
       {
-        "title": "Member",
+        "title": "Visiting PhD Research Assistant",
+        "organization": "Charles University, Department of Applied Social Sciences, Faculty of Humanities",
+        "dates": "April – June 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Charles University logo",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag",
+        "bullets": ["Erasmus+ mobility (2 months)"]
+      },
+      {
+        "title": "Summer School on Environmental History: European and Global Perspectives",
+        "organization": "European University Institute",
+        "dates": "September 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "EUI logo",
+        "flag": "IT",
+        "flag_alt": "Italy flag"
+      },
+      {
+        "title": "Visiting PhD Research Assistant",
+        "organization": "University of Turin, Department of Cultures, Politics and Society",
+        "dates": "April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Turin logo",
+        "flag": "IT",
+        "flag_alt": "Italy flag",
+        "bullets": ["Erasmus+ mobility (1 month)"]
+      },
+      {
+        "title": "Visiting PhD Research Assistant",
+        "organization": "Adam Mickiewicz University, Faculty of Polish and Classical Philology",
+        "dates": "February – April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Adam Mickiewicz University logo",
+        "flag": "PL",
+        "flag_alt": "Poland flag",
+        "bullets": ["CEEPUS mobility (2 months)"]
+      },
+      {
+        "title": "The Barcelona Past Networks Summer School",
+        "organization": "University of Barcelona",
+        "dates": "June 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Barcelona logo",
+        "flag": "ES",
+        "flag_alt": "Spain flag"
+      },
+      {
+        "title": "Visiting PhD Research Assistant",
+        "organization": "Charles University, Faculty of Arts",
+        "dates": "March – May 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Charles University logo",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag",
+        "bullets": ["Erasmus+ mobility (2 months)"]
+      },
+      {
+        "title": "2nd ISUP International Summer School: On War and Peace",
+        "organization": "University of Porto",
+        "dates": "July 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Porto logo",
+        "flag": "PT",
+        "flag_alt": "Portugal flag"
+      },
+      {
+        "title": "International Summer School: Innovation and Technology in Arts and Culture",
+        "organization": "Tomas Bata University in Zlin",
+        "dates": "September 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Tomas Bata University logo",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag",
+        "bullets": ["Erasmus+ mobility (8 days)"]
+      },
+      {
+        "title": "Intimacy in Women's Writing and Reading Summer School",
+        "organization": "University of Nova Gorica, Faculty of Humanities",
+        "dates": "August 2022",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nova Gorica logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["CEEPUS mobility (6 days)"]
+      },
+      {
+        "title": "Students Exchange",
+        "organization": "University of Rijeka, Faculty of Humanities and Social Sciences",
+        "dates": "February – June 2019",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Rijeka logo",
+        "flag": "HR",
+        "flag_alt": "Croatia flag",
+        "bullets": ["CEEPUS exchange (4 months)"]
+      },
+      {
+        "title": "Students Exchange",
+        "organization": "University of Ljubljana, Faculty of Arts",
+        "dates": "February – August 2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Ljubljana logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["CEEPUS exchange (6 months)"]
+      }
+    ]
+  },
+  {
+    "title": "Prizes, Fellowships, and Grants",
+    "entries": [
+      {
+        "title": "Erasmus+ Student Traineeship",
+        "organization": "Charles University, Faculty of Humanities",
+        "dates": "April – June 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Charles University logo",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag",
+        "bullets": ["EUR 1,800"]
+      },
+      {
+        "title": "Award for Excellence in Science 2024 (Odlični v znanosti)",
+        "organization": "Slovenian Research and Innovation Agency",
+        "dates": "2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ARIS logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["For the monograph Ljubim lepa pisma: dopisovanja avtoric slovenske moderne"]
+      },
+      {
+        "title": "Erasmus+ Short Term Doctoral Mobility",
+        "organization": "University of Turin, Department of Cultures, Politics and Society",
+        "dates": "April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Turin logo",
+        "flag": "IT",
+        "flag_alt": "Italy flag",
+        "bullets": ["EUR 2,400"]
+      },
+      {
+        "title": "CEEPUS Short-term Mobility",
+        "organization": "Adam Mickiewicz University, Faculty of Polish and Classical Philology",
+        "dates": "February – April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Adam Mickiewicz University logo",
+        "flag": "PL",
+        "flag_alt": "Poland flag",
+        "bullets": ["EUR 1,400"]
+      },
+      {
+        "title": "Erasmus+ Student Traineeship",
+        "organization": "Charles University, Faculty of Arts",
+        "dates": "March – May 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Charles University logo",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag",
+        "bullets": ["EUR 1,700"]
+      },
+      {
+        "title": "Doctoral Project Funding",
+        "organization": "Slovenian Research and Innovation Agency",
+        "dates": "October 2023 – September 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ARIS logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["EUR 104,000"]
+      },
+      {
+        "title": "Alumnus Optimus Award",
+        "organization": "University of Nova Gorica",
+        "dates": "2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nova Gorica logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["Best M.A. Student in Slovene Studies"]
+      }
+    ]
+  },
+  {
+    "title": "Institutional Service",
+    "entries": [
+      {
+        "title": "Main Organizer and Coordinator",
+        "organization": "3rd International and Interdisciplinary Summer School - Crossing Media Boundaries",
+        "dates": "August – September 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nova Gorica logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["University of Nova Gorica and CEEPUS"]
+      },
+      {
+        "title": "Scientific Communication Coordinator",
         "organization": "Research Centre for Humanities, University of Nova Gorica",
-        "dates": "2023 - Present",
+        "dates": "2023 – 2025",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "University of Nova Gorica logo",
         "flag": "SI",
         "flag_alt": "Slovenia flag"
       },
       {
+        "title": "Main Organizer and Coordinator",
+        "organization": "2nd International and Interdisciplinary Summer School - Sexual Desire Unbound",
+        "dates": "August – September 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nova Gorica logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag",
+        "bullets": ["University of Nova Gorica and CEEPUS"]
+      },
+      {
+        "title": "Member of Organizational Committee",
+        "organization": "International Scientific Conference - Transformations of Intimacy in Central and East European Literatures",
+        "dates": "March 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nova Gorica logo",
+        "flag": "CZ",
+        "flag_alt": "Czech Republic flag",
+        "bullets": ["University of Nova Gorica and Charles University, Prague"]
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships",
+    "entries": [
+      {
         "title": "Member",
-        "organization": "International Association for Comparative Literature (ICLA)",
-        "dates": "2023 - Present",
+        "organization": "American Men's Studies Association (AMSA)",
+        "dates": "2025 – ongoing",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "AMSA logo",
+        "flag": "US",
+        "flag_alt": "USA flag"
+      },
+      {
+        "title": "Member - Comparative Gender Studies Committee",
+        "organization": "International Comparative Literature Association (ICLA)",
+        "dates": "2025 – ongoing",
         "logo": "assets/images/institution-placeholder.svg",
         "logo_alt": "ICLA logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag"
+      },
+      {
+        "title": "Member",
+        "organization": "New Yugoslav Studies Association",
+        "dates": "2025 – ongoing",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NYSA logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag"
+      },
+      {
+        "title": "Member",
+        "organization": "International Comparative Literature Association (ICLA)",
+        "dates": "2023 – ongoing",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ICLA logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag"
+      },
+      {
+        "title": "Member",
+        "organization": "Gender Dialogues: Interdisciplinary Forum for Young Scholars",
+        "dates": "2023 – ongoing",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Gender Dialogues logo",
+        "flag": "SI",
+        "flag_alt": "Slovenia flag"
+      },
+      {
+        "title": "Member",
+        "organization": "Slavic Society of Slovenia",
+        "dates": "2022 – ongoing",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Slavic Society of Slovenia logo",
         "flag": "SI",
         "flag_alt": "Slovenia flag"
       }
