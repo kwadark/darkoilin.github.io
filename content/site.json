@@ -1,11 +1,11 @@
 {
-  "name": "Jane Doe",
-  "short_name": "Jane",
-  "publication_name": "Jane Doe",
-  "citation_name": "J. Doe",
-  "email_display": "jane [dot] doe [at] example [dot] edu",
-  "site_title": "Jane Doe | Academic Website",
-  "description": "Academic website of Jane Doe.",
+  "name": "Darko Ilin",
+  "short_name": "Darko",
+  "publication_name": "Darko Ilin",
+  "citation_name": "D. Ilin",
+  "email_display": "darko [dot] ilin [at] ung [dot] si",
+  "site_title": "Darko Ilin | Academic Website",
+  "description": "Academic website of Darko Ilin.",
   "copyright_year": 2026,
   "footer_text": "Last updated:",
   "attribution": {
@@ -21,24 +21,24 @@
     { "label": "CV", "path": "pages/cv.html" }
   ],
   "pages": {
-    "index.html": { "title": "", "description": "Academic website of Jane Doe." },
+    "index.html": { "title": "", "description": "Academic website of Darko Ilin." },
     "projects.html": { "title": "Projects", "description": "Research projects by Jane Doe." },
     "publications.html": { "title": "Publications", "description": "Publications by Jane Doe." },
     "news.html": { "title": "News", "description": "Latest news and updates from Jane Doe." },
-    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Jane Doe." }
+    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Darko Ilin." }
   },
   "profile_image": "assets/images/profile-placeholder.svg",
-  "profile_image_alt": "Jane Doe profile photo placeholder",
-  "bio_html": "Jane is a doctoral researcher in Example Department at Example University. Her research focuses on an interesting research area and its applications to real-world problems. Previously, Jane completed a master's degree in Example Subject and a bachelor's degree in Example Subject. Replace this paragraph with your own biography in <code>content/site.json</code>.",
+  "profile_image_alt": "Darko Ilin profile photo placeholder",
+  "bio_html": "Darko is a doctoral researcher affiliated with the Research Center for Humanities at the University of Nova Gorica. His research focuses on literary studies and their intersections with gender studies, masculinity studies, queer theory, and energy humanities. Previously, Darko completed a master's degree in Cultures in Dialogue, and another one in Slovene Literature and a bachelor's degree in Serbian and Comparative Literature.",
   "contact": [
-    "jane [dot] doe [at] example [dot] edu",
-    "Example Department, Example University, City, Country"
+    "darko [dot] ilin [at] ung [dot] si",
+    "Research Center for Humanities, University of Nova Gorica, Nova Gorica, Slovenia"
   ],
   "social_links": [
-    { "label": "University profile", "url": "https://example.edu/your-profile", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
-    { "label": "Google Scholar", "url": "https://scholar.google.com/", "icon": "fa-brands fa-google-scholar" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/", "icon": "fa-brands fa-linkedin" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "fa-brands fa-square-github" },
-    { "label": "ORCID", "url": "https://orcid.org/", "icon": "fa-brands fa-orcid" }
+    { "label": "University profile", "url": "https://ung.si/en/research/research-centre-for-humanities/staff/darko-ilin", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=iZ7gpRUAAAAJ", "icon": "fa-brands fa-google-scholar" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/darko-ilin-606361b0/", "icon": "fa-brands fa-linkedin" },
+    { "label": "GitHub", "url": "https://github.com/kwadark", "icon": "fa-brands fa-square-github" },
+    { "label": "ORCID", "url": "https://orcid.org/0000-0002-4200-6983", "icon": "fa-brands fa-orcid" }
   ]
 }
