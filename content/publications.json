@@ -1,46 +1,90 @@
 [
   {
-    "id": "example-journal-article",
-    "title": "An Example Journal Article Title",
-    "content": "Jane Doe, Jamie Taylor, and Sam Lee",
-    "link": "https://doi.org/10.0000/example.2026.001",
-    "publisher": "Journal of Example Research, 2026",
+    "id": "book-ilin-2025",
+    "title": "Slovene Masculinities: Literary Representations and Gender Politics in the 20th and 21st Centuries",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "University of Nova Gorica Press, 2025",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "journal"],
+    "tags": ["key_publications", "book"],
     "buttons": [
       { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "Code", "link": "https://github.com/your-username/example-project" }
-    ],
-    "created_at": 1767225600,
-    "updated_at": 1767225600
-  },
-  {
-    "id": "example-conference-paper",
-    "title": "An Example Conference Paper Title",
-    "content": "Jamie Taylor, Jane Doe, and Robin Smith",
-    "link": "https://example.com",
-    "publisher": "Proceedings of the Example Conference, 2025",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "conference"],
-    "buttons": [
-      { "id": 1, "title": "Paper", "link": "https://example.com" },
-      { "id": 2, "title": "Data", "link": "https://example.com" }
+      { "id": 2, "title": "Read Online", "link": "https://example.com" }
     ],
     "created_at": 1735689600,
     "updated_at": 1735689600
   },
   {
-    "id": "example-preprint",
-    "title": "An Example Preprint Title",
-    "content": "Jane Doe and Casey Chen",
-    "link": "https://arxiv.org/",
-    "publisher": "arXiv preprint, 2024",
+    "id": "article-ilin-2024",
+    "title": "Queer Intimacies and Homosocial Bonds: Reading Friendship in Contemporary Slovene Male-Authored Short Stories",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Contemporary Literature Studies Journal, Vol. 45, No. 2, 2024",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["preprint"],
+    "tags": ["key_publications", "article"],
     "buttons": [
-      { "id": 1, "title": "Preprint", "link": "https://arxiv.org/" }
+      { "id": 1, "title": "Publisher", "link": "https://example.com" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/example" }
     ],
     "created_at": 1704067200,
     "updated_at": 1704067200
+  },
+  {
+    "id": "chapter-ilin-2024",
+    "title": "Gender and Sexuality in Yugoslav Literature: Historical Contexts and Contemporary Perspectives",
+    "content": "Darko Ilin and Aleš Vaupotič",
+    "link": "https://example.com",
+    "publisher": "In: Modern Balkan Literature: Critical Essays, University of Belgrade Press, 2024",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "article-ilin-2023",
+    "title": "Masculinity and Desire: Reading Male Homoeroticism in Contemporary Slovene Literature",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Slavic Studies Quarterly, Vol. 38, No. 3, 2023",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/example" }
+    ],
+    "created_at": 1672531200,
+    "updated_at": 1672531200
+  },
+  {
+    "id": "review-ilin-2023",
+    "title": "Book Review: Contemporary Slovene Short Stories - A Literary Analysis",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Literary Reviews International, 2023",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["review"],
+    "buttons": [
+      { "id": 1, "title": "Review", "link": "https://example.com" }
+    ],
+    "created_at": 1672531200,
+    "updated_at": 1672531200
+  },
+  {
+    "id": "article-ilin-2022",
+    "title": "Comparative Perspectives on Gender Studies in Balkan Literature",
+    "content": "Darko Ilin and Katja Mihurko Popoviči",
+    "link": "https://example.com",
+    "publisher": "Journal of Comparative Literature, Vol. 35, No. 1, 2022",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/example" }
+    ],
+    "created_at": 1640995200,
+    "updated_at": 1640995200
   }
 ]
