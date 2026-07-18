@@ -1,26 +1,38 @@
 [
   {
-    "id": "project-example-one",
-    "title": "Example Research Project",
-    "summary": "A concise description of the research question, method, and intended impact of this project.",
+    "id": "programme-historical-interpretations",
+    "title": "Historical Interpretations of the 20th Century",
+    "summary": "Programme group member in the Historical Interpretations of the 20th Century research programme at ZRC SAZU (Research Centre of the Slovenian Academy of Sciences and Arts), led by Prof. Dr. Oto Luthar. Focus on comparative and transnational perspectives on 20th-century history, culture, and literature.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Research Project placeholder image",
-    "url": "pages/projects/project-example-one.html"
+    "image_alt": "Historical Interpretations of the 20th Century programme",
+    "url": "https://www.zrc-sazu.si/",
+    "dates": "2023 – ongoing"
   },
   {
-    "id": "project-example-two",
-    "title": "Example Collaborative Project",
-    "summary": "A second example showing how to describe collaborative or interdisciplinary research.",
+    "id": "project-dewona",
+    "title": "Sexual desire in Slovenian Women's Writing from a Transnational Perspective (DEWONA)",
+    "summary": "Project member on the DEWONA ERC Complementary Scheme project examining sexual desire in Slovenian women's writing from transnational and comparative perspectives. Led by Prof. Dr. Katja Mihurko at the University of Nova Gorica. Funded by ARIS (Slovenian Research Agency).",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Collaborative Project placeholder image",
-    "url": "pages/projects/project-example-two.html"
+    "image_alt": "DEWONA project placeholder",
+    "url": "https://www.ung.si/en",
+    "dates": "2023 – ongoing (Dec 2023 - Nov 2026)"
   },
   {
-    "id": "project-external",
-    "title": "Project with an External Website",
-    "summary": "Project cards may also link directly to an external project website or software demonstration.",
+    "id": "project-transformations-intimacy",
+    "title": "Transformations of Intimacy in the Literary Discourse of Slovene 'Moderna'",
+    "summary": "Project member on the Basic Research Project J6-3134 investigating transformations of intimacy in the literary discourse of Slovene Moderna (the Slovenian modernist period). Led by Prof. Dr. Katja Mihurko, funded by ARIS.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "External project placeholder image",
-    "url": "https://example.com"
+    "image_alt": "Transformations of Intimacy project placeholder",
+    "url": "https://www.ung.si/en",
+    "dates": "2023 – 2024 (Nov 2021 - Oct 2024)"
+  },
+  {
+    "id": "project-shapes-shame",
+    "title": "Shapes of Shame in Slovenian Literature",
+    "summary": "Project member on the Basic Research Project J6-60113 examining representations and configurations of shame in Slovenian literature. Led by Assist Prof. Dr. Ivana Zajc, funded by ARIS (Slovenian Research Agency).",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Shapes of Shame in Slovenian Literature project",
+    "url": "https://www.ung.si/en",
+    "dates": "2025 – ongoing (Jan 2025 - Dec 2027)"
   }
 ]
