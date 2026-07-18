@@ -19,7 +19,7 @@
     "content": "Darko Ilin",
     "link": "https://example.com",
     "publisher": "Ricerche slavistiche. Nuova Serie, 2025, vol. 8, no. 68, pp. 103-124",
-    "image": "assets/images/publications/placeholder-cover.svg",
+    "image": "assets/images/publications/Screenshot 2026-07-19 at 00.48.28.png",
     "tags": ["article"],
     "buttons": [
       { "id": 1, "title": "Publisher", "link": "https://example.com" }
@@ -33,7 +33,7 @@
     "content": "Darko Ilin",
     "link": "https://ojs.zrc-sazu.si/twohomelands/article/view/14714",
     "publisher": "Dve domovini: razprave o izseljenstvu, 2025, vol. 62, pp. 165-182",
-    "image": "assets/images/publications/placeholder-cover.svg",
+    "image": "assets/images/publications/Screenshot 2026-07-19 at 00.48.44.png",
     "tags": ["key_publications", "article"],
     "buttons": [
       { "id": 1, "title": "Publisher", "link": "https://ojs.zrc-sazu.si/twohomelands/article/view/14714" },
@@ -203,9 +203,9 @@
     "id": "article-forthcoming-3",
     "title": "Shame and the Literary Configurations of Queer Masculinities in Ivan Mrak's Ivan O.",
     "content": "Darko Ilin",
-    "link": "https://example.com",
+    "link": "https://journals.us.edu.pl/index.php/ERRGO/article/view/18401",
     "publisher": "Er(r)go. Theory - Literature - Culture (special issue on manliness) - forthcoming",
-    "image": "assets/images/publications/placeholder-cover.svg",
+    "image": "assets/images/publications/Screenshot 2026-07-19 at 00.49.20.png",
     "tags": ["key_publications", "article", "forthcoming"],
     "buttons": [
       { "id": 1, "title": "Forthcoming", "link": "https://example.com" }
