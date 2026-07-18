@@ -1,90 +1,164 @@
 [
   {
-    "id": "book-ilin-2025",
-    "title": "Slovene Masculinities: Literary Representations and Gender Politics in the 20th and 21st Centuries",
+    "id": "article-1-2026",
+    "title": "Shame and the literary configurations of queer masculinities in Ivan Mrak's Ivan O.",
     "content": "Darko Ilin",
-    "link": "https://example.com",
-    "publisher": "University of Nova Gorica Press, 2025",
+    "link": "https://journals.us.edu.pl/index.php/ERRGO/article/view/18401",
+    "publisher": "Er(r)go, 2026, no. 52, pp. 113-132",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "book"],
+    "tags": ["key_publications", "article"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "Read Online", "link": "https://example.com" }
+      { "id": 1, "title": "Publisher", "link": "https://journals.us.edu.pl/index.php/ERRGO/article/view/18401" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.31261/errgo.18401" }
     ],
     "created_at": 1735689600,
     "updated_at": 1735689600
   },
   {
-    "id": "article-ilin-2024",
-    "title": "Queer Intimacies and Homosocial Bonds: Reading Friendship in Contemporary Slovene Male-Authored Short Stories",
+    "id": "article-2-2025",
+    "title": "Representations and configurations of multiculturalism in Louis Adamič's The native's return",
     "content": "Darko Ilin",
-    "link": "https://example.com",
-    "publisher": "Contemporary Literature Studies Journal, Vol. 45, No. 2, 2024",
+    "link": "https://ojs.zrc-sazu.si/twohomelands/article/view/14714",
+    "publisher": "Dve domovini: razprave o izseljenstvu, 2025, vol. 62, pp. 165-182",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["key_publications", "article"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "DOI", "link": "https://doi.org/example" }
+      { "id": 1, "title": "Publisher", "link": "https://ojs.zrc-sazu.si/twohomelands/article/view/14714" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.3986/2025.2.9" }
+    ],
+    "created_at": 1735689600,
+    "updated_at": 1735689600
+  },
+  {
+    "id": "article-4-2024",
+    "title": "Decolonizing literary studies: unveiling postcolonial narratives in post-Yugoslav academic curricula",
+    "content": "Sara Vukotić and Darko Ilin",
+    "link": "https://www.journals.vu.lt/acta-paedagogica-vilnensia/article/view/35138/34344",
+    "publisher": "Acta Pedagogica Vilnensia, 2024, vol. 52, pp. 191-209",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://www.journals.vu.lt/acta-paedagogica-vilnensia/article/view/35138/34344" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.15388/ActPaed.2024.52.12" }
     ],
     "created_at": 1704067200,
     "updated_at": 1704067200
   },
   {
-    "id": "chapter-ilin-2024",
-    "title": "Gender and Sexuality in Yugoslav Literature: Historical Contexts and Contemporary Perspectives",
-    "content": "Darko Ilin and Aleš Vaupotič",
-    "link": "https://example.com",
-    "publisher": "In: Modern Balkan Literature: Critical Essays, University of Belgrade Press, 2024",
+    "id": "article-6-2024",
+    "title": "Live, lust, love: semantic fields of intimacy in Slovenian and Serbian fin de siècle prose",
+    "content": "Lucija Mandić and Darko Ilin",
+    "link": "https://journals.um.si/index.php/slaviacentralis/article/view/4741",
+    "publisher": "Slavia Centralis, 2024, vol. 17, no. 2, pp. 124-143",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://journals.um.si/index.php/slaviacentralis/article/view/4741" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.18690/scn.17.2.124-143.2024" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "article-7-2023",
+    "title": "Wikisource platforma kao biblioteka slovenačke književnosti i kulture",
+    "content": "Darko Ilin",
+    "link": "http://doi.fil.bg.ac.rs/pdf/journals/slovenika/2023/slovenika-2023-9-1-8.pdf",
+    "publisher": "Slovenika: časopis za kulturu, nauku i obrazovanje, 2023, vol. 9, pp. 195-211",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "http://doi.fil.bg.ac.rs/pdf/journals/slovenika/2023/slovenika-2023-9-1-8.pdf" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.18485/slovenika.2023.9.1.8" }
+    ],
+    "created_at": 1672531200,
+    "updated_at": 1672531200
+  },
+  {
+    "id": "article-10-2021",
+    "title": "Pogledi Aleksandra Belića na pitanja o slovenačkom jeziku",
+    "content": "Darko Ilin",
+    "link": "https://doi.org/10.18485/ms_zmss.2021.99.24",
+    "publisher": "Zbornik Matice srpske za slavistiku, 2021, vol. 99, pp. 399-413",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "DOI", "link": "https://doi.org/10.18485/ms_zmss.2021.99.24" }
+    ],
+    "created_at": 1609459200,
+    "updated_at": 1609459200
+  },
+  {
+    "id": "chapter-16-2024",
+    "title": "Timekeeper outside the canon: Roksanda Njeguš's prose in the Serbian literary system",
+    "content": "Darko Ilin",
+    "link": "https://doi.fil.bg.ac.rs/pdf/eb_book/2024/uns_arsfid/uns_arsfid-2024-ch12.pdf",
+    "publisher": "In: Identitet umetnice u srpskoj modernoj umetnosti. University of Novi Sad, Academy of Arts, 2024, pp. 210-224",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["chapter"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+      { "id": 1, "title": "Publisher", "link": "https://doi.fil.bg.ac.rs/pdf/eb_book/2024/uns_arsfid/uns_arsfid-2024-ch12.pdf" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.18485/uns_arsfid.2024.ch12" }
     ],
     "created_at": 1704067200,
     "updated_at": 1704067200
   },
   {
-    "id": "article-ilin-2023",
-    "title": "Masculinity and Desire: Reading Male Homoeroticism in Contemporary Slovene Literature",
+    "id": "chapter-23-2019",
+    "title": "Ne toliko tuđi: predstave o južnjacima u savremenom slovenačkom romanu",
     "content": "Darko Ilin",
-    "link": "https://example.com",
-    "publisher": "Slavic Studies Quarterly, Vol. 38, No. 3, 2023",
+    "link": "https://othernessinliteratureandarts.files.wordpress.com/2019/04/otherness-in-literature-and-arts-conference-journal-2019.pdf",
+    "publisher": "In: Otherness in literature and arts: conference journal. Klub studenata komparatistike, Novi Sad, 2019, pp. 154-160",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["article"],
+    "tags": ["chapter"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "DOI", "link": "https://doi.org/example" }
+      { "id": 1, "title": "Publisher", "link": "https://othernessinliteratureandarts.files.wordpress.com/2019/04/otherness-in-literature-and-arts-conference-journal-2019.pdf" }
     ],
-    "created_at": 1672531200,
-    "updated_at": 1672531200
+    "created_at": 1546300800,
+    "updated_at": 1546300800
   },
   {
-    "id": "review-ilin-2023",
-    "title": "Book Review: Contemporary Slovene Short Stories - A Literary Analysis",
+    "id": "review-31-2024",
+    "title": "Review: Ivana Zajc's Kaj je literarna zmožnost in kako jo preverjamo z maturitetnim esejem",
     "content": "Darko Ilin",
-    "link": "https://example.com",
-    "publisher": "Literary Reviews International, 2023",
+    "link": "https://journals.uni-lj.si/jezikinslovstvo/article/view/18189",
+    "publisher": "Jezik in slovstvo, 2024, vol. 69, no. 3, pp. 277-280",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["review"],
     "buttons": [
-      { "id": 1, "title": "Review", "link": "https://example.com" }
+      { "id": 1, "title": "Publisher", "link": "https://journals.uni-lj.si/jezikinslovstvo/article/view/18189" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.4312/jis.69.3.277-280" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "review-32-2023",
+    "title": "Contemporary teaching of literature and the problem of the graduation essay",
+    "content": "Darko Ilin",
+    "link": "https://journals.ukim.mk/index.php/philologicalstudies/article/view/1990/1641",
+    "publisher": "Philological studies, 2023, vol. 21, no. 2, pp. 323-327",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["review"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://journals.ukim.mk/index.php/philologicalstudies/article/view/1990/1641" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.55302/PS23212323i" }
     ],
     "created_at": 1672531200,
     "updated_at": 1672531200
   },
   {
-    "id": "article-ilin-2022",
-    "title": "Comparative Perspectives on Gender Studies in Balkan Literature",
-    "content": "Darko Ilin and Katja Mihurko Popoviči",
-    "link": "https://example.com",
-    "publisher": "Journal of Comparative Literature, Vol. 35, No. 1, 2022",
+    "id": "textbook-36-2024",
+    "title": "Reprezentacije spolov v slovenski književnosti",
+    "content": "Katja Mihurko and Darko Ilin",
+    "link": "https://books.ung.si/reprezentacije",
+    "publisher": "University of Nova Gorica Press, 2024. Online textbook.",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["article"],
+    "tags": ["textbook"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "DOI", "link": "https://doi.org/example" }
+      { "id": 1, "title": "Online Textbook", "link": "https://books.ung.si/reprezentacije" }
     ],
-    "created_at": 1640995200,
-    "updated_at": 1640995200
+    "created_at": 1704067200,
+    "updated_at": 1704067200
   }
 ]

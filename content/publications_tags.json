@@ -1,8 +1,7 @@
 [
   { "name": "key_publications", "title": "Key Publications" },
-  { "name": "book", "title": "Books" },
   { "name": "article", "title": "Journal Articles" },
   { "name": "chapter", "title": "Book Chapters" },
-  { "name": "review", "title": "Book Reviews" },
-  { "name": "conference", "title": "Conference Papers" }
+  { "name": "review", "title": "Reviews" },
+  { "name": "textbook", "title": "Textbooks" }
 ]
