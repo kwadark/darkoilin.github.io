@@ -1,22 +1,35 @@
 [
   {
-    "id": "article-1-2026",
-    "title": "Shame and the literary configurations of queer masculinities in Ivan Mrak's Ivan O.",
-    "content": "Darko Ilin",
-    "link": "https://journals.us.edu.pl/index.php/ERRGO/article/view/18401",
-    "publisher": "Er(r)go, 2026, no. 52, pp. 113-132",
+    "id": "book-1",
+    "title": "Reprezentacije spolov v slovenski književnosti",
+    "content": "Katja Mihurko and Darko Ilin",
+    "link": "https://books.ung.si/reprezentacije",
+    "publisher": "University of Nova Gorica Press, 2024",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "article"],
+    "tags": ["key_publications", "book"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://journals.us.edu.pl/index.php/ERRGO/article/view/18401" },
-      { "id": 2, "title": "DOI", "link": "https://doi.org/10.31261/errgo.18401" }
+      { "id": 1, "title": "Publisher", "link": "https://books.ung.si/reprezentacije" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "article-1-2025",
+    "title": "To you, Slovenia is a place abroad, to me it is not: Sociolinguistic Practices of the Slovene Minority in Belgrade",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Ricerche slavistiche. Nuova Serie, 2025, vol. 8, no. 68, pp. 103-124",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
     ],
     "created_at": 1735689600,
     "updated_at": 1735689600
   },
   {
     "id": "article-2-2025",
-    "title": "Representations and configurations of multiculturalism in Louis Adamič's The native's return",
+    "title": "Representations and Configurations of Multiculturalism in Louis Adamič's The Native's Return",
     "content": "Darko Ilin",
     "link": "https://ojs.zrc-sazu.si/twohomelands/article/view/14714",
     "publisher": "Dve domovini: razprave o izseljenstvu, 2025, vol. 62, pp. 165-182",
@@ -30,8 +43,23 @@
     "updated_at": 1735689600
   },
   {
+    "id": "article-3-2024",
+    "title": "Live, Lust, Love: Semantic Fields of Intimacy in Slovenian and Serbian fin de siècle prose",
+    "content": "Lucija Mandić and Darko Ilin",
+    "link": "https://journals.um.si/index.php/slaviacentralis/article/view/4741",
+    "publisher": "Slavia Centralis, 2024, vol. 17(2), pp. 124-143",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://journals.um.si/index.php/slaviacentralis/article/view/4741" },
+      { "id": 2, "title": "DOI", "link": "https://doi.org/10.18690/scn.17.2.124-143.2024" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
     "id": "article-4-2024",
-    "title": "Decolonizing literary studies: unveiling postcolonial narratives in post-Yugoslav academic curricula",
+    "title": "Decolonizing Literary Studies: Unveiling Postcolonial Narratives in Post-Yugoslav Academic Curricula",
     "content": "Sara Vukotić and Darko Ilin",
     "link": "https://www.journals.vu.lt/acta-paedagogica-vilnensia/article/view/35138/34344",
     "publisher": "Acta Pedagogica Vilnensia, 2024, vol. 52, pp. 191-209",
@@ -45,22 +73,21 @@
     "updated_at": 1704067200
   },
   {
-    "id": "article-6-2024",
-    "title": "Live, lust, love: semantic fields of intimacy in Slovenian and Serbian fin de siècle prose",
-    "content": "Lucija Mandić and Darko Ilin",
-    "link": "https://journals.um.si/index.php/slaviacentralis/article/view/4741",
-    "publisher": "Slavia Centralis, 2024, vol. 17, no. 2, pp. 124-143",
+    "id": "article-5-2024",
+    "title": "Analize omrežij v elektronski zbirki Pisma: vidik metapodatkov in semantičnih povezav besedišča",
+    "content": "Katja Mihurko, Ivana Zajc, Darko Ilin, and Mila Marinković",
+    "link": "https://example.com",
+    "publisher": "Primerjalna književnost, 2024, vol. 47(2), pp. 31-44",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["article"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://journals.um.si/index.php/slaviacentralis/article/view/4741" },
-      { "id": 2, "title": "DOI", "link": "https://doi.org/10.18690/scn.17.2.124-143.2024" }
+      { "id": 1, "title": "DOI", "link": "https://doi.org/10.3986/pkn.v47.i2.02" }
     ],
     "created_at": 1704067200,
     "updated_at": 1704067200
   },
   {
-    "id": "article-7-2023",
+    "id": "article-6-2023",
     "title": "Wikisource platforma kao biblioteka slovenačke književnosti i kulture",
     "content": "Darko Ilin",
     "link": "http://doi.fil.bg.ac.rs/pdf/journals/slovenika/2023/slovenika-2023-9-1-8.pdf",
@@ -75,10 +102,38 @@
     "updated_at": 1672531200
   },
   {
-    "id": "article-10-2021",
+    "id": "article-7-2021",
+    "title": "Slika učiteljskog života u pripovetkama srpskog i slovenačkog realizma koje u svom naslovu sadrže reč 'učitelj(-ica)'",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Godišnjak Pedagoškog fakulteta u Vranju, 2021, vol. 12, no. 1, pp. 71-84",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1609459200,
+    "updated_at": 1609459200
+  },
+  {
+    "id": "article-8-2021",
+    "title": "Socrealistička poetika u romanima Sonje Sever za decu i omladinu objavljenim na srpskohrvatskom jeziku",
+    "content": "Vanja Petrović and Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Slovenika: časopis za kulturu, nauku i obrazovanje, 2021, vol. 7, pp. 21-39",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "DOI", "link": "https://doi.org/10.18485/slovenika.2021.7.1.1" }
+    ],
+    "created_at": 1609459200,
+    "updated_at": 1609459200
+  },
+  {
+    "id": "article-9-2021",
     "title": "Pogledi Aleksandra Belića na pitanja o slovenačkom jeziku",
     "content": "Darko Ilin",
-    "link": "https://doi.org/10.18485/ms_zmss.2021.99.24",
+    "link": "https://example.com",
     "publisher": "Zbornik Matice srpske za slavistiku, 2021, vol. 99, pp. 399-413",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["article"],
@@ -89,26 +144,207 @@
     "updated_at": 1609459200
   },
   {
-    "id": "chapter-16-2024",
-    "title": "Timekeeper outside the canon: Roksanda Njeguš's prose in the Serbian literary system",
+    "id": "article-10-2021",
+    "title": "Kanonizacija i promocija književnosti kroz izdavački projekat Sto slovenskih romana",
     "content": "Darko Ilin",
-    "link": "https://doi.fil.bg.ac.rs/pdf/eb_book/2024/uns_arsfid/uns_arsfid-2024-ch12.pdf",
-    "publisher": "In: Identitet umetnice u srpskoj modernoj umetnosti. University of Novi Sad, Academy of Arts, 2024, pp. 210-224",
+    "link": "https://example.com",
+    "publisher": "Lik, 2021, vol. 7, no. 12, pp. 69-84",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "DOI", "link": "https://doi.org/10.7251/LIK2112069I" }
+    ],
+    "created_at": 1609459200,
+    "updated_at": 1609459200
+  },
+  {
+    "id": "article-11-2019",
+    "title": "Radost ponovo nađene dvojine - interkulturni aspekti zbirke poezije Život na razglednici Ane Ristović",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Slovenika: časopis za kulturu, nauku i obrazovanje, 2019, vol. 5, pp. 63-76",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1546300800,
+    "updated_at": 1546300800
+  },
+  {
+    "id": "article-forthcoming-1",
+    "title": "Who Interprets Oil? Gender in Reading and Reception of the Early Yugoslav Petro-Fiction",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Gender a výzkum (special issue on Ecofeminisms) - forthcoming",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article", "forthcoming"],
+    "buttons": [
+      { "id": 1, "title": "Manuscript in preparation", "link": "https://example.com" }
+    ],
+    "created_at": 1735689600,
+    "updated_at": 1735689600
+  },
+  {
+    "id": "article-forthcoming-2",
+    "title": "Destroying Men, Destroying Masculinity: Queer Death in Brane Mozetič's Pasijon",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Porównania (special issue on Central European masculinities) - forthcoming",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["article", "forthcoming"],
+    "buttons": [
+      { "id": 1, "title": "Forthcoming", "link": "https://example.com" }
+    ],
+    "created_at": 1735689600,
+    "updated_at": 1735689600
+  },
+  {
+    "id": "article-forthcoming-3",
+    "title": "Shame and the Literary Configurations of Queer Masculinities in Ivan Mrak's Ivan O.",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Er(r)go. Theory - Literature - Culture (special issue on manliness) - forthcoming",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["key_publications", "article", "forthcoming"],
+    "buttons": [
+      { "id": 1, "title": "Forthcoming", "link": "https://example.com" }
+    ],
+    "created_at": 1735689600,
+    "updated_at": 1735689600
+  },
+  {
+    "id": "chapter-1-2024",
+    "title": "Piši mi, prav srčkano mi piši!: intimnost v korespondenci Zofke Kveder in Ivanke Anžič Klemenčič",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Ljubim lepa pisma: dopisovanja avtoric slovenske moderne. University of Nova Gorica Press, 2024, pp. 592-608",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["chapter"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://doi.fil.bg.ac.rs/pdf/eb_book/2024/uns_arsfid/uns_arsfid-2024-ch12.pdf" },
-      { "id": 2, "title": "DOI", "link": "https://doi.org/10.18485/uns_arsfid.2024.ch12" }
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
     ],
     "created_at": 1704067200,
     "updated_at": 1704067200
   },
   {
-    "id": "chapter-23-2019",
+    "id": "chapter-2-2024",
+    "title": "Timekeeper Outside the Canon: Roksanda Njeguš's Prose in the Serbian Literary System",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Zbornik radova - The Identity of Female Artist in Serbian Modern Art. University of Novi Sad, Academy of Arts, 2024, pp. 210-224",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "chapter-3-2024",
+    "title": "Ivo Andrić in Slovenke",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Andrićeva publicistika. Institut für Slawistik, Graz, 2024, pp. 295-305",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "chapter-4-2024",
+    "title": "Presežni sram, preseganje sramu: oblikovanje kvir identitete v delu Ivan O. Ivana Mraka",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Jezik in književnost v spreminjanju - Slovene Slavic Studies Congress. Zveza društev Slavistično društvo Slovenije, 2024, pp. 415-425",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1704067200,
+    "updated_at": 1704067200
+  },
+  {
+    "id": "chapter-5-2023",
+    "title": "Metateatralni elementi u drami Narodni demokratski cirkus Sakešvili Roka Vilčnika",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Nauka i studenti - STUDKON 4. Faculty of Philosophy, University of Niš, 2023, pp. 151-157",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1672531200,
+    "updated_at": 1672531200
+  },
+  {
+    "id": "chapter-6-2023",
+    "title": "Stvaranje pesme i prirode kao (srpska) poetska kosmogonija u pesničkoj zbirci Tako ona hoće Milutina Petrovića",
+    "content": "Darko Ilin and Sara Vukotić",
+    "link": "https://example.com",
+    "publisher": "In: Poetički koncepti Milutina Petrovića. Institut za književnost i umetnost, Belgrade, 2023, pp. 193-216",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1672531200,
+    "updated_at": 1672531200
+  },
+  {
+    "id": "chapter-7-2020",
+    "title": "Beograd u Ljubljani, Ljubljana u Beogradu: Ana Ristović i prevazilaženje kulturnih granica",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Poezija Ane Ristović - Desankini majski razgovori. Zadužbina Desanka Maksimović, Belgrade, 2020, pp. 161-173",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1577836800,
+    "updated_at": 1577836800
+  },
+  {
+    "id": "chapter-8-2020",
+    "title": "Homoseksualnost i oblikovanje lika Turčina u drami Tripče de Utolče Marina Držića",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Zgodnji novi vek in njegova dediščina v slovanskem prostoru. Študentska sekcija Zveze društev Slavistično društvo Slovenije, Ljubljana, 2020, pp. 101-111",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1577836800,
+    "updated_at": 1577836800
+  },
+  {
+    "id": "chapter-9-2019",
+    "title": "Rana prevodna i kritička recepcija Vinjeta Ivana Cankara u srpskoj sredini",
+    "content": "Darko Ilin",
+    "link": "https://doi.org/10.18485/cankar_i(n)_mi.2019.ch4",
+    "publisher": "In: Cankar i(n) mi - International Student Conference. Faculty of Philology, University of Belgrade, 2019, pp. 49-57",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter"],
+    "buttons": [
+      { "id": 1, "title": "DOI", "link": "https://doi.org/10.18485/cankar_i(n)_mi.2019.ch4" }
+    ],
+    "created_at": 1546300800,
+    "updated_at": 1546300800
+  },
+  {
+    "id": "chapter-10-2019",
     "title": "Ne toliko tuđi: predstave o južnjacima u savremenom slovenačkom romanu",
     "content": "Darko Ilin",
     "link": "https://othernessinliteratureandarts.files.wordpress.com/2019/04/otherness-in-literature-and-arts-conference-journal-2019.pdf",
-    "publisher": "In: Otherness in literature and arts: conference journal. Klub studenata komparatistike, Novi Sad, 2019, pp. 154-160",
+    "publisher": "In: Otherness in Literature and Arts - Conference Journal. Klub studenata komparatistike, Novi Sad, 2019, pp. 154-160",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["chapter"],
     "buttons": [
@@ -118,8 +354,8 @@
     "updated_at": 1546300800
   },
   {
-    "id": "review-31-2024",
-    "title": "Review: Ivana Zajc's Kaj je literarna zmožnost in kako jo preverjamo z maturitetnim esejem",
+    "id": "review-1-2024",
+    "title": "Review: Ivana Zajc - Kaj je literarna zmožnost in kako jo preverjamo z maturitetnim esejem",
     "content": "Darko Ilin",
     "link": "https://journals.uni-lj.si/jezikinslovstvo/article/view/18189",
     "publisher": "Jezik in slovstvo, 2024, vol. 69, no. 3, pp. 277-280",
@@ -133,11 +369,11 @@
     "updated_at": 1704067200
   },
   {
-    "id": "review-32-2023",
-    "title": "Contemporary teaching of literature and the problem of the graduation essay",
+    "id": "review-2-2023",
+    "title": "Contemporary Teaching of Literature and the Problem of the Graduation Essay",
     "content": "Darko Ilin",
     "link": "https://journals.ukim.mk/index.php/philologicalstudies/article/view/1990/1641",
-    "publisher": "Philological studies, 2023, vol. 21, no. 2, pp. 323-327",
+    "publisher": "Philological Studies, 2023, vol. 21, no. 2, pp. 323-327",
     "image": "assets/images/publications/placeholder-cover.svg",
     "tags": ["review"],
     "buttons": [
@@ -148,17 +384,45 @@
     "updated_at": 1672531200
   },
   {
-    "id": "textbook-36-2024",
-    "title": "Reprezentacije spolov v slovenski književnosti",
-    "content": "Katja Mihurko and Darko Ilin",
-    "link": "https://books.ung.si/reprezentacije",
-    "publisher": "University of Nova Gorica Press, 2024. Online textbook.",
+    "id": "review-3-2023",
+    "title": "Srpski i slovenački postmodernizam oči u oči",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Slovenika: časopis za kulturu, nauku i obrazovanje, 2023, vol. 9, pp. 259-262",
     "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["textbook"],
+    "tags": ["review"],
     "buttons": [
-      { "id": 1, "title": "Online Textbook", "link": "https://books.ung.si/reprezentacije" }
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
     ],
-    "created_at": 1704067200,
-    "updated_at": 1704067200
+    "created_at": 1672531200,
+    "updated_at": 1672531200
+  },
+  {
+    "id": "review-4-2020",
+    "title": "Alojzija Zupan Sosič - Na molu suvremenosti ili o književnosti i romanu",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "Slovenika: časopis za kulturu, nauku i obrazovanje, 2020, vol. 6, pp. 177-181",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["review"],
+    "buttons": [
+      { "id": 1, "title": "Publisher", "link": "https://example.com" }
+    ],
+    "created_at": 1577836800,
+    "updated_at": 1577836800
+  },
+  {
+    "id": "chapter-forthcoming-1",
+    "title": "Petro-Masculinities and Literary Imagination of Oil in Interwar Yugoslavia: Antun Bonifačić's Krv Majke Zemlje (1935)",
+    "content": "Darko Ilin",
+    "link": "https://example.com",
+    "publisher": "In: Early Petropoetics (eds. Anna Siedel & Clemens Günther) - manuscript in preparation",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["chapter", "forthcoming"],
+    "buttons": [
+      { "id": 1, "title": "Manuscript in preparation", "link": "https://example.com" }
+    ],
+    "created_at": 1735689600,
+    "updated_at": 1735689600
   }
 ]
