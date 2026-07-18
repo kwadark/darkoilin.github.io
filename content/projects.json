@@ -1,12 +1,21 @@
 [
+    {
+    "id": "programme-historical-interpretations",
+    "title": "Transdisciplinary Research of Identities and Cultures (P6-0461)",
+    "summary": "Programme group member in the Transdisciplinary Research of Identities and Cultures (P6-0461) research programme at Research Center for Humanities, led by Prof. Dr. Katja Mihurko. Focus on exploring Slovenian culture and identity in the broader Central European and Balkan context.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Transdisciplinary Research of Identities and Cultures",
+    "url": "https://ung.si/en/research/research-centre-for-humanities/projects/transdisciplinary-research-of-identities-and-cultures-p6-0461/",
+    "dates": "2026 – ongoing"
+  },
   {
     "id": "programme-historical-interpretations",
     "title": "Historical Interpretations of the 20th Century",
     "summary": "Programme group member in the Historical Interpretations of the 20th Century research programme at ZRC SAZU (Research Centre of the Slovenian Academy of Sciences and Arts), led by Prof. Dr. Oto Luthar. Focus on comparative and transnational perspectives on 20th-century history, culture, and literature.",
     "image": "assets/images/project-placeholder.svg",
     "image_alt": "Historical Interpretations of the 20th Century programme",
-    "url": "https://www.zrc-sazu.si/",
-    "dates": "2023 – ongoing"
+    "url": "https://ikss.zrc-sazu.si/en/programi-in-projekti/historical-interpretations-of-the-20th-century/",
+    "dates": "2023 – 2025"
   },
   {
     "id": "project-dewona",
